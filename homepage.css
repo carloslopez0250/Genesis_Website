@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-color: rgb(14, 14, 17);
+}
+nav{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    align-items: center;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
